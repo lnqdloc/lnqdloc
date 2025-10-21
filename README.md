@@ -40,12 +40,14 @@ I’m always eager to learn new frameworks, contribute to open-source, and explo
 ## 🧰 Tech Stack
 
 #### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 #### ⚙️ Tools & DevOps
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -89,7 +91,7 @@ I’m always eager to learn new frameworks, contribute to open-source, and explo
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lnqdloc/lnqdloc/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lnqdloc&theme=github-dark&area=true" alt="activity graph" />
 </p>
 
 <p align="center">
